@@ -1,0 +1,22 @@
+{
+  "login": {
+    "email": "cytesting@test.com",
+    "validPassword": "password123",
+    "invalidPassword": "password1",
+    "name": "Cypress Sr."
+  },
+
+  "signUp": {
+    "name": "Cypress Jr.",
+    "email": "cyautotesting@test.com",
+    "password": "password2",
+    "firstName": "Cypress Jr.",
+    "lastName": "Automation",
+    "company": "Cypress Automation",
+    "address": "Cypress Street 123",
+    "state": "Cypress State",
+    "city": "Cypress City",
+    "zipcode": "10000",
+    "mobile": "+123456789"
+  }
+}

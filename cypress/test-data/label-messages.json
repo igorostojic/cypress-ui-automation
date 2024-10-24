@@ -1,0 +1,30 @@
+{
+  "homePage": {
+    "carouselHeading": "Full-Fledged practice website for Automation Engineers"
+  },
+
+  "signup": {
+    "accountCreated": "Account Created!",
+    "congratulations": "Congratulations! Your new account has been successfully created!"
+  },
+
+  "login": {
+    "loginLabelMessage": "Login to your account",
+    "signUpLabelMessage": "New User Signup!",
+    "invalidPassword": "Your email or password is incorrect!"
+  },
+
+  "deletedAccount": {
+    "accountDeleted": "Account Deleted!",
+    "confirmation": "Your account has been permanently deleted!"
+  },
+
+  "cartModal": {
+    "productAddedHeader": "Added!",
+    "productAddedBody": "Your product has been added to cart."
+  },
+
+  "cart": {
+    "empty": "Cart is empty!"
+  }
+}
